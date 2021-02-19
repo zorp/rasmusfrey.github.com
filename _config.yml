@@ -1,2 +1,4 @@
 #theme: jekyll-theme-tactile
 remote_theme: "jeffreytse/jekyll-theme-yat"
+- name: Jekyll Deploy Action
+  uses: jeffreytse/jekyll-deploy-action@v0.1.4
